@@ -4,7 +4,7 @@
 
 <p align="left"> 
   Prazer, meu nome é Marcio Augusto De Carvalho Belucci e tenho 18 anos, no momento estou estudando para virar um programador Fullstack. <br>
-  <h2>principais ferramentas do momento:</h2> 
+  <h2>Principais ferramentas do momento:</h2> 
   <ul>
     <li> Javascript</li>
     <li> Html</li>
