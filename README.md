@@ -7,8 +7,8 @@
   <h2>Principais ferramentas do momento:</h2> 
   <ul>
     <li> Javascript</li>
-    <li> Html</li>
-    <li> Css</li>
+    <li> HTML</li>
+    <li> CSS</li>
     <li> PHP</li>
     <li> C#</li>
     <li> MySQL</li>
